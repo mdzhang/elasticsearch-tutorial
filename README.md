@@ -16,4 +16,6 @@
     brew bundle
     ```
 
+    *NB*: This will start Elasticsearch
+
 [es-tutorial]: https://github.com/elastic/elasticsearch#getting-started
